@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="estilos.css"?>
+<Transporte>
+  <Terrestres>
+    <Carro>
+      <Marca>Ford</Marca>
+      <Cilindros>6</Cilindros>
+      <color>Rojo</color>
+      <Potencia>600</Potencia>
+      <Velocidad_Maxima>3000km/h</Velocidad_Maxima>
+      <peso>30</peso>
+    </Carro>
+    
+    <Bicicleta>
+      <Marca>Veloci</Marca>
+      <Rodada>29</Rodada>
+      <color>Negra</color>
+      <tipo>Montaña</tipo>
+      <Velocidad_Maxima>30km/h</Velocidad_Maxima>
+      <peso>50</peso>
+    </Bicicleta>
+    
+    <Motocicleta>
+      <Marca>Yamaha</Marca>
+      <Potencia>150</Potencia>
+      <Color>Rojo</Color>
+      <peso>120kg</peso>
+    </Motocicleta>
+  </Terrestres>
+  
+  <Aereos>
+    <Avion>
+      <Numero_Asientos>30</Numero_Asientos>
+      <Numero_Llantas>6</Numero_Llantas>
+      <Numero_Ventanillas>42</Numero_Ventanillas>
+      <Cadena>Volaris</Cadena>
+      <Color>Blanco</Color>
+    </Avion>
+  </Aereos>
+  
+  <Helicoptero>
+    <Color>Negro</Color>
+    <Altura_Maxima>20000m</Altura_Maxima>
+    <Potencia>500</Potencia>
+    <Numero_Pasajeros>6</Numero_Pasajeros>
+    <Velocidad_Maxima>1000m</Velocidad_Maxima>
+    <Peso>1000</Peso>
+  </Helicoptero>
+  <Navales>
+  </Navales>
+</Transporte>
